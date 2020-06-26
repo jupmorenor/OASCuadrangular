@@ -1,0 +1,20 @@
+.cuadrangular {
+  width: 100%;
+  padding: 0 20%;
+}
+
+.celda {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.partido {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.input {
+  height: 30px;
+}
